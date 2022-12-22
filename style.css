@@ -1,0 +1,12 @@
+#valorKm{
+    display: inline;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-left: 2px;
+    align-items: center;
+    text-align: center;
+}
+
+#calcular {
+    border-radius: 5px;
+}
